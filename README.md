@@ -1,4 +1,4 @@
-# ninja-jobs
+# jobs-spa
 
 ## Project setup
 ```
